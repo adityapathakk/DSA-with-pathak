@@ -15,6 +15,6 @@ I made this to keep track of questions I solve, have all my solutions in one pla
 - c
 
 ### GeeksForGeeks:
-- a
+- <a href = "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays">Union of Two Sorted Arrays</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/GeeksForGeeks/Union-Of-Two-Sorted-Arrays.py">Solution</a>
 - b
 - c
