@@ -5,7 +5,9 @@ I made this to keep a track of questions I solve, have all my solutions in one p
 ### Leetcode:
 - <a href = "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/">1752 - Check if Array is Sorted and Rotated</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/1752-Check-If-Array-Is-Sorted-And-Rotated.py">Solution</a>
 - <a href = "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">26 - Remove Duplicates from Sorted Array</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/26-Remove-Duplicates-From-Sorted-Array.py">Solution</a>
-- c
+- <a href = "https://leetcode.com/problems/rotate-array/description/">189 - Rotate Array</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/189-Rotate-Array.py">Solution</a>
+ <a href = ""></a>
+
 
 ### Codechef:
 - a
