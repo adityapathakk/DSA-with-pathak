@@ -21,4 +21,6 @@ class Solution: # Brute Force Approach
 -> if the log is ../, then we moved back to a parent folder. that's one less folder we have to exit, so we subtract 1 from minimum operations (except when the minimum operations is already 0, in that case we just continue).
 -> if the log is ./, then there isn't any operation. no folder was changed, so we simply continue.
 
+leetcode solutions post: https://leetcode.com/problems/crawler-log-folder/solutions/5452549/super-easy-detailed-explanation-for-beginners-brute-force-with-python
+
 '''
