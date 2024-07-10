@@ -12,6 +12,7 @@ I made this to keep track of questions I solve, have all my solutions in one pla
 7. <a href = "https://leetcode.com/problems/average-waiting-time/description/">1701 - Average Waiting Time</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/1701-Average-Waiting-Time.py">Solution</a>
 8. <a href = "https://leetcode.com/problems/missing-number/description/">268 - Missing Number</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/268-Missing-Number.py">Solution</a>
 9. <a href = "https://leetcode.com/problems/crawler-log-folder/description/">1598 - Crawler Log Folder</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/1598-Crawler-Log-Folder.py">Solution</a>
+10. <a href = "https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/">1823 - Find the Winner of the Circular Game</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/1823-Find-The-Winner-Of-The-Circular-Game.py">Solution</a>
 
 
 ### Codechef:
