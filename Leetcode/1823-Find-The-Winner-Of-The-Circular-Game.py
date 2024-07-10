@@ -1,4 +1,4 @@
-class Solution: # simulate the circle - remove the last friend after iterating over k friends.
+class Solution: # simulate the circle - keep removing the last friend until circle has 1 friend left, i.e. the winner.
     def findTheWinner(self, n: int, k: int) -> int:
         friends = [friend for friend in range(1, n + 1)]
         index = 0
