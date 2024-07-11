@@ -14,6 +14,7 @@ I made this to keep track of questions I solve, have all my solutions in one pla
 9. <a href = "https://leetcode.com/problems/crawler-log-folder/description/">1598 - Crawler Log Folder</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/1598-Crawler-Log-Folder.py">Solution</a>
 10. <a href = "https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/">1823 - Find the Winner of the Circular Game</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/1823-Find-The-Winner-Of-The-Circular-Game.py">Solution</a>
 11. <a href = "https://leetcode.com/problems/contains-duplicate/description/">217 - Contains Duplicate</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/217-Contains-Duplicate.py">Solution</a>
+12. <a href = "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/">1190 - Reverse Substrings Between Each Pair of Parentheses</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/1190-Reverse-Substrings-Between-Each-Pair-Of-Parentheses.py">Solution</a>
 
 
 ### Codechef:
