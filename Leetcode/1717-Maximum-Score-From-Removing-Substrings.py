@@ -24,7 +24,7 @@ class Solution:
 
 two things to note here:
 
-we need to determine how to maximise our points. that can be done by FIRST removing the substrings which're worth more points, and then removing the the substring which is worth less points.
+we need to determine how to maximise our points. that can be done by FIRST removing the substrings which're worth more points, and then removing the substrings which're worth fewer points.
 for example, if x > y, then 'ab' is worth more points, and we should remove that first to maximise the points.
 
 using a stack, we can keep track of the last 2 characters when we iterate over the given string. when the for loop reaches a character (say, i) of the string, we check if the last element in
