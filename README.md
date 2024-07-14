@@ -17,6 +17,8 @@ I made this to keep track of questions I solve, have all my solutions in one pla
 12. <a href = "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/">1190 - Reverse Substrings Between Each Pair of Parentheses</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/1190-Reverse-Substrings-Between-Each-Pair-Of-Parentheses.py">Solution</a>
 13. <a href = "https://leetcode.com/problems/valid-anagram/">242 - Valid Anagram</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/242-Valid-Anagram.py">Solution</a> (Part of Neetcode 150)
 14. <a href = "https://leetcode.com/problems/maximum-score-from-removing-substrings/description/">1717 - Maximum Score From Removing Substrings</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/1717-Maximum-Score-From-Removing-Substrings.py">Solution</a>
+15. <a href = "https://leetcode.com/problems/robot-collisions/">2751 - Robot Collisions</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Hard/2751-Robot-Collisions.py">Solution</a> (Hard)
+16. <a href = "https://leetcode.com/problems/number-of-atoms/">726 - Number of Atoms</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Hard/726-Number-Of-Atoms.py">Solution</a> (Hard)
 
 
 ### Codechef:
