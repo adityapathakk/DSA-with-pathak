@@ -29,7 +29,8 @@ class Solution:
 
 ''' Approach
 
-Similar to Leetcode editorial - approach 3. when revising, check out other approaches too.
-link - https://leetcode.com/problems/create-binary-tree-from-descriptions/editorial 
+Similar to Leetcode editorial - approach 3. when revising, check out other methods too.
+link - https://leetcode.com/problems/create-binary-tree-from-descriptions/editorial
+my Leetcode solution post link: https://leetcode.com/problems/create-binary-tree-from-descriptions/solutions/5480174/super-easy-code-with-comments-beats-67-runtime-85-9-memory/
 
 '''
