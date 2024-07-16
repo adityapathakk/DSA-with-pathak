@@ -22,6 +22,7 @@ I made this to keep track of questions I solve, have all my solutions in one pla
 17. <a href = "https://leetcode.com/problems/create-binary-tree-from-descriptions/description/">2196 - Create Binary Tree From Descriptions</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/2196-Create-Binary-Tree-From-Descriptions.py">Solution</a> (Medium)
 18. <a href = "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/">236 - Lowest Common Ancestor Of A Binary Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/236-Lowest-Common-Ancestor-Of-A-Binary-Tree.py">Solution</a> (Medium)
 19. <a href = "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description">2096 - Step-By-Step Directions From a Binary Tree Node to Another</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/2096-Step-By-Step-Directions-From-A-Binary-Tree-Node-To-Another.py">Solution</a> (Medium)
+20. <a href = "https://leetcode.com/problems/group-anagrams/">49 - Group Anagrams</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/49-Group-Anagrams.py">Solution</a> (Medium) (Part of Neetcode 150)
 
 
 ### Codechef:
