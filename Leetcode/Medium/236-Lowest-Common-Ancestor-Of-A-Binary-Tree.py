@@ -19,8 +19,9 @@ class Solution:
 
 ''' Approach
 
-traverse to left and check if we get the node else we will return none
-if we get both p, q in different subtree we will return root because the common ancestor is the root.
-else we will return p or q if p is parent of q or q is parent of p
+revise this question - check solutions.
+traverse to the left and check if we get the node else we will return none
+if we get both p and q in different subtrees we will return the root because the common ancestor is the root.
+otherwise, we will return p or q if p is the parent of q or q is the parent of p.
 
 '''
