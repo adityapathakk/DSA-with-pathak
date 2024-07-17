@@ -24,6 +24,8 @@ I made this to keep track of interesting questions I solve, have all my solution
 19. <a href = "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description">2096 - Step-By-Step Directions From a Binary Tree Node to Another</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/2096-Step-By-Step-Directions-From-A-Binary-Tree-Node-To-Another.py">Solution</a> (Medium)
 20. <a href = "https://leetcode.com/problems/group-anagrams/">49 - Group Anagrams</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/49-Group-Anagrams.py">Solution</a> (Medium) (Part of Neetcode 150)
 21. <a href = "https://leetcode.com/problems/delete-nodes-and-return-forest/description">1110 - Delete Nodes And Return Forest</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/1110-Delete-Nodes-And-Return-Forest.py">Solution</a> (Medium)
+22. <a href = "https://leetcode.com/problems/valid-parentheses/description/">20 - Valid Parentheses</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/20-Valid-Parentheses.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
+23. <a href = "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/">28 - Find the Index of the First Occurrence in a String</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/28-Find-The-Index-Of-The-First-Occurrence-In-A-String.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 
 
 ### Codechef:
