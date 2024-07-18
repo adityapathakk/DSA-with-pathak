@@ -28,6 +28,7 @@ You can find questions from various sources here - I started this repository to 
 22. <a href = "https://leetcode.com/problems/valid-parentheses/description/">20 - Valid Parentheses</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/20-Valid-Parentheses.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 23. <a href = "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/">28 - Find the Index of the First Occurrence in a String</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/28-Find-The-Index-Of-The-First-Occurrence-In-A-String.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 24. <a href = "https://leetcode.com/problems/find-the-duplicate-number/">287 - Find the Duplicate Number</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/287-Find-The-Duplicate-Number.py">Solution</a> (Medium) (Part of Arsh Goyal's 45 Day Challenge)
+25. <a href = "https://leetcode.com/problems/sort-colors/description/">75 - Sort Colors</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/75-Sort-Colors.py">Solution</a> (Medium) (Part of Arsh Goyal's 45 Day Challenge)
 
 
 ### Codechef:
