@@ -1,6 +1,6 @@
 # Pathak's DSA Bank
 This is (definitely not a complete) list of interesting DSA problems I've solved.<br>
-I made this to keep track of interesting questions I solve, have all my solutions in one place for easy access, and stay consistent I guess - don't want this repo to go dead. :))<br>
+I made this to keep track of interesting questions I solve, have all my solutions in one place for easy access, and stay consistent I guess - don't want this repo to go dead. :))<br><br>
 You can find questions from various sources here - I started this repository to store my solutions for Striverr's A-Z DSA Sheet (450+ questions). Soon, however, I started keeping all my solutions here, including my daily streak questions, questions from Neetcode's 150, and even Arsh Goyal's 45-Day Challenge.
 
 ### Leetcode:
@@ -41,3 +41,5 @@ You can find questions from various sources here - I started this repository to 
 1. <a href = "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays">Union of Two Sorted Arrays</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/GeeksForGeeks/Union-Of-Two-Sorted-Arrays.py">Solution</a>
 2. b
 3. c
+
+Some thing I'd like to do to this repository when I get time - mention which problems belong to Striverr's A-Z DSA Sheet, just like I've mentioned (Part of Neetcode 150) or (Part of Arsh Goyal's 45-Day Challenge)
