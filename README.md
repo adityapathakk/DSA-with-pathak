@@ -1,6 +1,7 @@
 # Pathak's DSA Bank
-This is (probably not a complete) list of DSA problems I've solved.<br>
-I made this to keep track of interesting questions I solve, have all my solutions in one place for easy access, and stay consistent I guess - don't want this repo to go dead. :))
+This is (definitely not a complete) list of interesting DSA problems I've solved.<br>
+I made this to keep track of interesting questions I solve, have all my solutions in one place for easy access, and stay consistent I guess - don't want this repo to go dead. :))<br>
+You can find questions from various sources here - I started this repository to store my solutions for Striverr's A-Z DSA Sheet (450+ questions). Soon, however, I started keeping all my solutions here, including my daily streak questions, questions from Neetcode's 150, and even Arsh Goyal's 45-Day Challenge.
 
 ### Leetcode:
 1. <a href = "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/">1752 - Check if Array is Sorted and Rotated</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/1752-Check-If-Array-Is-Sorted-And-Rotated.py">Solution</a> (Easy)
@@ -26,6 +27,7 @@ I made this to keep track of interesting questions I solve, have all my solution
 21. <a href = "https://leetcode.com/problems/delete-nodes-and-return-forest/description">1110 - Delete Nodes And Return Forest</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/1110-Delete-Nodes-And-Return-Forest.py">Solution</a> (Medium)
 22. <a href = "https://leetcode.com/problems/valid-parentheses/description/">20 - Valid Parentheses</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/20-Valid-Parentheses.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 23. <a href = "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/">28 - Find the Index of the First Occurrence in a String</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/28-Find-The-Index-Of-The-First-Occurrence-In-A-String.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
+24. <a href = "https://leetcode.com/problems/find-the-duplicate-number/">287 - Find the Duplicate Number</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/287-Find-The-Duplicate-Number.py">Solution</a> (Medium) (Part of Arsh Goyal's 45 Day Challenge)
 
 
 ### Codechef:
