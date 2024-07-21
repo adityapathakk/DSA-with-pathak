@@ -32,6 +32,7 @@ You can find questions from various sources here - I started this repository to 
 26. <a href = "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description">1530 - Number of Good Leaf Nodes Pairs</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/1530-Number-Of-Good-Leaf-Nodes-Pairs.py">Solution</a> (Medium)
 27. <a href = "https://leetcode.com/problems/lucky-numbers-in-a-matrix/">1380 - Lucky Numbers in a Matrix</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/1380-Lucky-Numbers-In-A-Matrix.py">Solution</a> (Easy)
 28. <a href = "https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/">1605 - Find Valid Matrix Given Row and Column Sums</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/1605-Find-Valid-Matrix-Given-Row-And-Column-Sums.py">Solution</a> (Medium)
+29. <a href = "https://leetcode.com/problems/build-a-matrix-with-conditions/description">2392 - Build a Matrix With Conditions</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Hard/2392-Build-A-Matrix-With-Conditions.py">Solution</a> (Hard)
 
 
 ### Codechef:
