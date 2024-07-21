@@ -1,4 +1,4 @@
-class Solution: # part of neetcode 150
+class Solution: # part of neetcode 150 - https://neetcode.io/problems/top-k-elements-in-list
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         count = {}
         freq = [[] for i in range(len(nums) + 1)]
