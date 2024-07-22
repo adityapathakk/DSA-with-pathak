@@ -36,6 +36,7 @@ You can find questions from various sources here - I started this repository to 
 30. <a href = "https://leetcode.com/problems/top-k-frequent-elements/description">347 - Top K Frequent Elements</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/347-Top-K-Frequent-Elements.py">Solution</a> (Medium) (Part of Neetcode 150)
 31. <a href = "https://leetcode.com/problems/merge-sorted-array/description/">88 - Merge Sorted Array</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/88-Merge-Sorted-Array.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 32. <a href = "https://leetcode.com/problems/majority-element/description/">169 - Majority Element</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/169-Majority-Element.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
+33. <a href = "https://leetcode.com/problems/sort-the-people/description/">2418 - Sort the People</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/2418-Sort-The-People.py">Solution</a> (Easy)
 
 
 ### Codechef:
