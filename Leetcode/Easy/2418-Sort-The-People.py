@@ -11,6 +11,7 @@ class Solution:
 
         return names
 
+
 # similar approach to the one above
         # height_to_name = {heights[i]: names[i] for i in range(len(names))}
         # heights.sort()
