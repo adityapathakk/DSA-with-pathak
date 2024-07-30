@@ -39,6 +39,7 @@ You can find questions from various sources here - I started this repository to 
 33. <a href = "https://leetcode.com/problems/sort-the-people/description/">2418 - Sort the People</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/2418-Sort-The-People.py">Solution</a> (Easy)
 34. <a href = "https://leetcode.com/problems/sort-array-by-increasing-frequency/description/">1636 - Sort Array by Increasing Frequency</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/1636-Sort-Array-By-Increasing-Frequency.py">Solution</a> (Easy)
 35. <a href = "https://leetcode.com/problems/count-number-of-teams/description/">1395 - Count Number of Teams</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/1395-Count-Number-Of-Teams.py">Solution</a> (Medium)
+36. <a href = "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/">121 - Best Time to Buy and Sell Stock</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/121-Best-Time-To-Buy-And-Sell-Stock.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 
 
 ### Codechef:
@@ -48,7 +49,7 @@ You can find questions from various sources here - I started this repository to 
 
 ### GeeksForGeeks:
 1. <a href = "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays">Union of Two Sorted Arrays</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/GeeksForGeeks/Union-Of-Two-Sorted-Arrays.py">Solution</a>
-2. b
+2. <a href = "">Chocolate Distribution Problem</a> | <a href = "">Solution</a> (Part of Arsh Goyal's 45 Day Challenge)
 3. c
 
 Some thing I'd like to do to this repository when I get time - mention which problems belong to Striverr's A-Z DSA Sheet, just like I've mentioned (Part of Neetcode 150) or (Part of Arsh Goyal's 45-Day Challenge)
