@@ -40,7 +40,7 @@ You can find questions from various sources here - I started this repository to 
 34. <a href = "https://leetcode.com/problems/sort-array-by-increasing-frequency/description/">1636 - Sort Array by Increasing Frequency</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/1636-Sort-Array-By-Increasing-Frequency.py">Solution</a> (Easy)
 35. <a href = "https://leetcode.com/problems/count-number-of-teams/description/">1395 - Count Number of Teams</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/1395-Count-Number-Of-Teams.py">Solution</a> (Medium)
 36. <a href = "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/">121 - Best Time to Buy and Sell Stock</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/121-Best-Time-To-Buy-And-Sell-Stock.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
-<a href = "https://leetcode.com/problems/two-sum/description/">1 - Two Sum</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/1-Two-Sum.py">Solution</a> (Easy)
+37. <a href = "https://leetcode.com/problems/two-sum/description/">1 - Two Sum</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/1-Two-Sum.py">Solution</a> (Easy)
 
 
 ### Codechef:
