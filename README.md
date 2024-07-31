@@ -45,8 +45,8 @@ You can find questions from various sources here - I started this repository to 
 
 
 ### Codechef:
-1. a
-2. b
+1. <a href = "https://www.codechef.com/problems/CABLE">Volume Comparison</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Codechef/Volume-Comparison.py">Solution</a>
+2. <a href = "https://www.codechef.com/problems/GMGM">Gun Master</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Codechef/Gun-Master.py">Solution</a>
 3. c
 
 ### GeeksForGeeks:
