@@ -41,6 +41,7 @@ You can find questions from various sources here - I started this repository to 
 35. <a href = "https://leetcode.com/problems/count-number-of-teams/description/">1395 - Count Number of Teams</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/1395-Count-Number-Of-Teams.py">Solution</a> (Medium)
 36. <a href = "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/">121 - Best Time to Buy and Sell Stock</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/121-Best-Time-To-Buy-And-Sell-Stock.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 37. <a href = "https://leetcode.com/problems/two-sum/description/">1 - Two Sum</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/1-Two-Sum.py">Solution</a> (Easy)
+38. <a href = "https://leetcode.com/problems/longest-common-prefix/">14 - Longest Common Prefix</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/14-Longest-Common-Prefix.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 
 
 ### Codechef:
