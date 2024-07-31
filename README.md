@@ -44,9 +44,9 @@ You can find questions from various sources here - I started this repository to 
 
 
 ### Codechef:
-1. a
-2. b
-3. c
+1. <a href = "https://www.codechef.com/problems/CABLE">Volume Comparison</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Codechef/Volume-Comparison.py">Solution</a>
+2. <a href = "https://www.codechef.com/problems/GMGM">Gun Master</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Codechef/Gun-Master.py">Solution</a>
+3. 
 
 ### GeeksForGeeks:
 1. <a href = "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays">Union of Two Sorted Arrays</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/GeeksForGeeks/Union-Of-Two-Sorted-Arrays.py">Solution</a>
