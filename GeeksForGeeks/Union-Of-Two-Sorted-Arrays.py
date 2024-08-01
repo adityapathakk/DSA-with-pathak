@@ -1,4 +1,4 @@
-# Link To Problem: https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays
+# Link to problem: https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays
 
 class Solution:
     
@@ -10,8 +10,7 @@ class Solution:
         :param b: given sorted array b
         :param m: size of sorted array b
         :return:  The union of both arrays as a list
-        '''
-        # code here 
+        ''' 
         s = set()
         result = []
         
@@ -25,8 +24,8 @@ class Solution:
         result = sorted(result)    
         return result
 
-  ''' Approach
+''' Approach
 
 Sets don't contain duplicates. After sorting the set, we get all distinct elements from both arrays.
 
-  '''
+'''
