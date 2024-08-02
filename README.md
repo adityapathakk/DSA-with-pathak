@@ -46,6 +46,7 @@ You can find questions from various sources here - I started this repository to 
 40. <a href = "https://leetcode.com/problems/add-binary/description/">67 - Add Binary</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/67-Add-Binary.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 41. <a href = "https://leetcode.com/problems/excel-sheet-column-title/description/">168 - Excel Sheet Column Title</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/168-Excel-Sheet-Column-Title.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 42. <a href = "https://leetcode.com/problems/implement-queue-using-stacks/description/">232 - Implement Queue using Stacks</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/232-Implement-Queue-using-Stacks.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
+43. <a href = "https://leetcode.com/problems/backspace-string-compare/description/">844 - Backspace String Compare</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/844-Backspace-String-Compare.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 
 
 ### Codechef:
