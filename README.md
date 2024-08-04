@@ -57,7 +57,7 @@ You can find questions from various sources here - I started this repository to 
 51. <a href = "https://leetcode.com/problems/symmetric-tree/">101 - Symmetric Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/101-Symmetric-Tree.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 52. <a href = "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/">108 - Convert Sorted Array to Binary Search Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/108-Convert-Sorted-Array-to-Binary-Search-Tree.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 53. <a href = "https://leetcode.com/problems/merge-two-binary-trees/description/">617 - Merge Two Binary Trees</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/617-Merge-Two-Binary-Trees.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
-54. <a href = "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/">104 - Maximum Depth of Binary Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/104-Maximum-Depth-of-Binary-Tree.py">Solution</a>
+54. <a href = "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/">104 - Maximum Depth of Binary Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/104-Maximum-Depth-of-Binary-Tree.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 <!--54. <a href = ""></a> | <a href = "">Solution</a>
 56. <a href = ""></a> | <a href = "">Solution</a>
 57. <a href = ""></a> | <a href = "">Solution</a>
