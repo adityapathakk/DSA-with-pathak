@@ -49,6 +49,10 @@ You can find questions from various sources here - I started this repository to 
 43. <a href = "https://leetcode.com/problems/backspace-string-compare/description/">844 - Backspace String Compare</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/844-Backspace-String-Compare.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 44. <a href = "https://leetcode.com/problems/implement-stack-using-queues/description/">225 - Implement Stack using Queues</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/225-Implement-Stack-Using-Queues.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 45. <a href = "https://leetcode.com/problems/next-greater-element-i/">496 - Next Greater Element I</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/496-Next-Greater-Element-I.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
+46. <a href = "https://leetcode.com/problems/diameter-of-binary-tree/">543 - Diameter of Binary Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/543-Diameter-of-Binary-Tree.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
+47. <a href = "https://leetcode.com/problems/invert-binary-tree/description/">226 - Invert Binary Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/226-Invert-Binary-Tree.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
+48. <a href = "https://leetcode.com/problems/same-tree/description/">100 - Same Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/100-Same-Tree.py">Solution</a> (Easy)
+49. <a href = "https://leetcode.com/problems/subtree-of-another-tree/description/">572 - Subtree of Another Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/572-Subtree-of-Another-Tree.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 
 
 ### Codechef:
