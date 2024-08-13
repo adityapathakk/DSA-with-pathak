@@ -59,8 +59,8 @@ You can find questions from various sources here - I started this repository to 
 53. <a href = "https://leetcode.com/problems/merge-two-binary-trees/description/">617 - Merge Two Binary Trees</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/617-Merge-Two-Binary-Trees.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 54. <a href = "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/">104 - Maximum Depth of Binary Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/104-Maximum-Depth-of-Binary-Tree.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 55. <a href = "https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/">783 - Minimum Distance Between BST Nodes</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/783-Minimum-Distance-Between-BST-Nodes.py">Solution</a> (Easy) (Same as <a href = "https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/">LC - 530</a>)
+56. <a href = "https://leetcode.com/problems/set-matrix-zeroes/">73 - Set Matrix Zeroes</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/73-Set-Matrix-Zeroes.py">Solution</a> (Medium)
 <!--54. <a href = ""></a> | <a href = "">Solution</a>
-57. <a href = ""></a> | <a href = "">Solution</a>
 58. <a href = ""></a> | <a href = "">Solution</a>
 59. <a href = ""></a> | <a href = "">Solution</a>
 60. <a href = ""></a> | <a href = "">Solution</a>
