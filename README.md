@@ -86,5 +86,8 @@ You can find questions from various sources here - I started this repository to 
 7. <a href = "https://www.geeksforgeeks.org/problems/deque-implementations/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card">Deque Implementations</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/GeeksForGeeks/Deque-Implementations.py">Solution</a> (Part of Arsh Goyal's 45 Day Challenge)
 8. <a href = "https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1">Evaluation of Postfix Expression</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/GeeksForGeeks/Evaluation-of-Postfix-Expression.py">Solution</a> (Part of Arsh Goyal's 45 Day Challenge)
 9. <a href = "https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1">Implement two stacks in an array</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/GeeksForGeeks/Implement-two-stacks-in-an-array.py">Solution</a> (Part of Arsh Goyal's 45 Day Challenge)
+10. <a href = "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card">Check if array is sorted</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/GeeksForGeeks/Check-if-array-is-sorted.py">Solution</a>
 
-Some thing I'd like to do to this repository when I get time - mention which problems belong to Striverr's A-Z DSA Sheet, just like I've mentioned (Part of Neetcode 150) or (Part of Arsh Goyal's 45-Day Challenge)
+Some thing I'd like to do to this repository when I get time
+- mention which problems belong to Striverr's A-Z DSA Sheet, just like I've mentioned (Part of Neetcode 150) or (Part of Arsh Goyal's 45-Day Challenge)
+- remove questions that're from Arsh Goyal's 45 Day Challenge (i literally have a separate repo for it - <a href = "https://github.com/adityapathakk/CrackYourInternship">here</a>)
