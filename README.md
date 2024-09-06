@@ -60,9 +60,9 @@ You can find questions from various sources here - I started this repository to 
 54. <a href = "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/">104 - Maximum Depth of Binary Tree</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/104-Maximum-Depth-of-Binary-Tree.py">Solution</a> (Easy) (Part of Arsh Goyal's 45 Day Challenge)
 55. <a href = "https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/">783 - Minimum Distance Between BST Nodes</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/783-Minimum-Distance-Between-BST-Nodes.py">Solution</a> (Easy) (Same as <a href = "https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/">LC - 530</a>)
 56. <a href = "https://leetcode.com/problems/set-matrix-zeroes/">73 - Set Matrix Zeroes</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Easy/73-Set-Matrix-Zeroes.py">Solution</a> (Medium)
+57. <a href = "https://leetcode.com/problems/product-of-array-except-self/">238 - Product of Array Except Self</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/238-Product-of-Array-Except-Self.py">Solution</a> (Medium)
+58. <a href = "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/">3217 - Delete Nodes From Linked List Present in Array</a> | <a href = "https://github.com/adityapathakk/DSA-with-pathak/blob/main/Leetcode/Medium/3217-Delete-Nodes-From-Linked-List-Present-in-Array.py">Solution</a>
 <!--54. <a href = ""></a> | <a href = "">Solution</a>
-58. <a href = ""></a> | <a href = "">Solution</a>
-59. <a href = ""></a> | <a href = "">Solution</a>
 60. <a href = ""></a> | <a href = "">Solution</a>
 61. <a href = ""></a> | <a href = "">Solution</a>
 62. <a href = ""></a> | <a href = "">Solution</a>
